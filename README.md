@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-My name is Alba, and I'm a Phd student in artificial intelligence based in Barcelona. 
+I'm Alba, a Phd student in Artificial Intelligence based in Barcelona. 
 
-- 🔭 I’m studying how AI can make a social impact in policy-making. 
-- 🌱 I’m currently improving the pilot agent-based model (ABM) I built for policy-making purposes [AABM](https://github.com/albaaguilera/Aporophobia-ABM).
-- 💬 I'm integrating computer science tools (e.g. ABMs and reinforcement learning) with social science frameworks (e.g. the capability approach), check it out [here](https://arxiv.org/abs/2403.01600).
+- 🔭 I’m studying how AI-driven simulations can inform policy-making. 
+- 🌱 I’m currently improving my pilot agent-based model [AABM](https://github.com/albaaguilera/Aporophobia-ABM).
+- 💬 I'm integrating computer science (e.g. ABMs, reinforcement learning) with social science frameworks (e.g. the capability approach)
+  - Check it out [here](https://arxiv.org/abs/2403.01600).
 
 
 <!--
