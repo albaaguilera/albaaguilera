@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on agent-based modelling (ABM) for policy-making purposes. 
+- 🌱 I’m currently learning how to integrate ABM and reinforcement learning with the capability approach (CA).
+- 👯 I’m looking to collaborate on 
+- 
 <!--
 **albaaguilera/albaaguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
