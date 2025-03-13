@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on agent-based modelling (ABM) for policy-making purposes. 
-- 🌱 I’m currently learning how to integrate ABM and reinforcement learning with the capability approach (CA).
-- 👯 I’m looking to collaborate on 
-- 
+My name is Alba, and I'm a Phd student in artificial intelligence based in Barcelona. 
+
+- 🔭 I’m studying how AI can make a social impact in policy-making. 
+- 🌱 I’m currently improving the pilot agent-based model (ABM) I built for policy-making purposes [AABM](https://github.com/albaaguilera/Aporophobia-ABM).
+- 💬 I'm integrating computer science tools (e.g. ABMs and reinforcement learning) with social science frameworks (e.g. the capability approach), check it out [here](https://arxiv.org/abs/2403.01600).
+
+
 <!--
 **albaaguilera/albaaguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
