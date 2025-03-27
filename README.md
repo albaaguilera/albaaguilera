@@ -5,7 +5,7 @@ I'm Alba, a Phd student in Artificial Intelligence based in Barcelona.
 - 🔭 I’m studying how AI-driven simulations can inform policy-making. 
 - 🌱 I’m currently improving my pilot agent-based model [AABM](https://github.com/albaaguilera/Aporophobia-ABM).
 - 💬 I'm integrating computer science (e.g. agent-based modelling and reinforcement learning) with social science frameworks (e.g. the capability approach)
-  - Check it out [here](https://arxiv.org/abs/2403.01600).
+  - Check it out [here](https://arxiv.org/abs/2503.18389).
 
 
 <!--
